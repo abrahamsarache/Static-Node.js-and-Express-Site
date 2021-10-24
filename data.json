@@ -18,7 +18,7 @@
          "technologies":["HTML", "CSS", "JavaScript"],
          "live_link":"https://abrahamsarache.github.io/Data-Pagination-and-Filtering/",
          "github_link":"https://github.com/abrahamsarache/Data-Pagination-and-Filtering",
-         "image_urls":["/static/images/2.-Data pagination and filtering - Main.JPG", "/static/images/2.-Data pagination and filtering - 01.JPG", "/static/images/2.-Data pagination and filtering - 02.JPG", "/static/images/2.-Data pagination and filtering - 03.JPG", "/static/images/2.-Data pagination and filtering - 04.JPG"]  
+         "image_urls":["/static/images/2.-Data pagination and filtering - 01.JPG", "/static/images/2.-Data pagination and filtering - 02.JPG", "/static/images/2.-Data pagination and filtering - 03.JPG", "/static/images/2.-Data pagination and filtering - 04.JPG"]  
          }
     ,
     
@@ -29,7 +29,7 @@
         "technologies":["HTML", "CSS", "JavaScript"],
         "live_link":"https://abrahamsarache.github.io/Interactive-Form/",
         "github_link":"https://github.com/abrahamsarache/Interactive-Form",
-        "image_urls":""  
+        "image_urls":["/static/images/3.- Interactive Form - 01.jpg", "/static/images/3.- Interactive Form - 02.jpg", "/static/images/3.- Interactive Form - 03.jpg", "/static/images/3.- Interactive Form - 04.jpg"]
         }
      ,
     
@@ -40,7 +40,7 @@
         "technologies":["HTML", "CSS", "JavaScript"],
         "live_link":"https://abrahamsarache.github.io/Object-Oriented-Programming-Game/",
         "github_link":"https://github.com/abrahamsarache/Object-Oriented-Programming-Game",
-        "image_urls":""  
+        "image_urls":["/static/images/4.-OOP - Main.jpg", "/static/images/4.-OOP - 01.jpg", "/static/images/4.-OOP - 02.jpg", "/static/images/4.-OOP - 03.jpg"]  
         }
     ,
     
@@ -51,7 +51,7 @@
         "technologies":["HTML", "CSS", "JavaScript"],
         "live_link":"https://abrahamsarache.github.io/Public-API-Requests/",
         "github_link":"https://github.com/abrahamsarache/Public-API-Requests",
-        "image_urls":""  
+        "image_urls":["/static/images/5.-API - Main.jpg", "/static/images/5.-API - 01.jpg", "/static/images/5.-API - 02.jpg"]  
         }
     ]
 }
