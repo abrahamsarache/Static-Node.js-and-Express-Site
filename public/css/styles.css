@@ -137,7 +137,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: linear-gradient(black,navy);
 }
 
 .sidebar-info-box {

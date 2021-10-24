@@ -1,0 +1,26 @@
+{
+  "name": "static-node.js-and-express-site",
+  "version": "1.0.0",
+  "description": "A portfolio site with Node.js, Express and Pug(in progress).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahamsarache/Static-Node.js-and-Express-Site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahamsarache/Static-Node.js-and-Express-Site/issues"
+  },
+  "homepage": "https://github.com/abrahamsarache/Static-Node.js-and-Express-Site#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "pug": "^3.0.2"
+  }
+}

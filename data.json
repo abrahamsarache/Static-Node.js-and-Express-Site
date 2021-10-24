@@ -1,0 +1,57 @@
+{"projects":[
+   
+       {
+        "id":1,
+        "project_name":"Random Quote Generator",
+        "description":"A random quote generator that changes color every time a new quote is loaded.",
+        "technologies":["HTML", "CSS", "JavaScript"],
+        "live_link":"https://abrahamsarache.github.io/Random-Quote-Generator/",
+        "github_link":"https://github.com/abrahamsarache/Random-Quote-Generator/",
+        "image_urls":["/static/images/1.-Random Quote Generator - 01.JPG", "/static/images/1.-Random Quote Generator - 02.JPG", "/static/images/1.-Random Quote Generator - 03.JPG"] 
+        }
+    ,
+    
+        {
+         "id":2,
+         "project_name": "Data Pagination and Filtering",
+         "description":"Adding elements dynamically with JavaScript to a page from a database in a Json file.",
+         "technologies":["HTML", "CSS", "JavaScript"],
+         "live_link":"https://abrahamsarache.github.io/Data-Pagination-and-Filtering/",
+         "github_link":"https://github.com/abrahamsarache/Data-Pagination-and-Filtering",
+         "image_urls":["/static/images/2.-Data pagination and filtering - Main.JPG", "/static/images/2.-Data pagination and filtering - 01.JPG", "/static/images/2.-Data pagination and filtering - 02.JPG", "/static/images/2.-Data pagination and filtering - 03.JPG", "/static/images/2.-Data pagination and filtering - 04.JPG"]  
+         }
+    ,
+    
+    {
+        "id":3,
+        "project_name": "Interactive Form",
+        "description":"Interactive Form in JS.",
+        "technologies":["HTML", "CSS", "JavaScript"],
+        "live_link":"https://abrahamsarache.github.io/Interactive-Form/",
+        "github_link":"https://github.com/abrahamsarache/Interactive-Form",
+        "image_urls":""  
+        }
+     ,
+    
+    {
+        "id":4,
+        "project_name": "Object Oriented Programming Game",
+        "description":"Guess the word game with JavaScript.",
+        "technologies":["HTML", "CSS", "JavaScript"],
+        "live_link":"https://abrahamsarache.github.io/Object-Oriented-Programming-Game/",
+        "github_link":"https://github.com/abrahamsarache/Object-Oriented-Programming-Game",
+        "image_urls":""  
+        }
+    ,
+    
+    {
+        "id":5,
+        "project_name": "Public API Requests",
+        "description":"Creating an employee directory by communicating with a third-party API.",
+        "technologies":["HTML", "CSS", "JavaScript"],
+        "live_link":"https://abrahamsarache.github.io/Public-API-Requests/",
+        "github_link":"https://github.com/abrahamsarache/Public-API-Requests",
+        "image_urls":""  
+        }
+    ]
+}
