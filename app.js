@@ -47,10 +47,10 @@ app.use((err, req, res, next)=> {
   res.status(err.status);
   console.error(`${err.message} ${err.status}`);
    if(err.status === 404){
-    res.render('../views/404.pug', {err});
+    res.render('../views/404.pug', {err, myName});
    } else {
     err.status = 500;
-    res.render('../views/error.pug', {err});
+    res.render('../views/error.pug', {err, myName});
    }
 });
 

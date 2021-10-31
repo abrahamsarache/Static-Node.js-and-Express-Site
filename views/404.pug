@@ -1,10 +1,16 @@
-extends layout 
-
+extends layout.pug 
 block content
+
     h1= error.message
     h2= error.status
-
-    nav.nav
+      
+        style. 
+          .wrapper { 
+            background-image: url('/static/images/404.png')
+            } 
+            
+    nav.nav(style={ 'border-bottom-color': 'transparent'})
+      
       a(href='/')
         span &larr;
         |  Back
