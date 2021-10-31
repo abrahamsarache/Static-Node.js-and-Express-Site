@@ -22,7 +22,7 @@ body {
   line-height: 1.5;
   color: #0a0a0a;
   background: #fefefe;
-  background: #000;
+  background: navy;
   transform: translateX(0px);
   transition: all 0.4s ease-out;
 }

@@ -37,7 +37,7 @@
         "id":4,
         "project_name": "Object Oriented Programming Game",
         "description":"Guess the word game with JavaScript.",
-        "technologies":["HTML", "CSS", "JavaScript"],
+        "technologies":["HTML", "CSS", "JavaScript", "OOP"],
         "live_link":"https://abrahamsarache.github.io/Object-Oriented-Programming-Game/",
         "github_link":"https://github.com/abrahamsarache/Object-Oriented-Programming-Game",
         "image_urls":["/static/images/4.-OOP - Main.jpg", "/static/images/4.-OOP - 01.jpg", "/static/images/4.-OOP - 02.jpg", "/static/images/4.-OOP - 03.jpg"]  
@@ -48,7 +48,7 @@
         "id":5,
         "project_name": "Public API Requests",
         "description":"Creating an employee directory by communicating with a third-party API.",
-        "technologies":["HTML", "CSS", "JavaScript"],
+        "technologies":["HTML", "CSS", "JavaScript", "Fetch and Public APIs"],
         "live_link":"https://abrahamsarache.github.io/Public-API-Requests/",
         "github_link":"https://github.com/abrahamsarache/Public-API-Requests",
         "image_urls":["/static/images/5.-API - Main.jpg", "/static/images/5.-API - 01.jpg", "/static/images/5.-API - 02.jpg"]  
